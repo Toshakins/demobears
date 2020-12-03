@@ -1,0 +1,5 @@
+# conda install -c conda-forge --file requirements.txt
+
+pandas == 1.1.4
+modin == 0.8.2
+jupyterlab == 2.2.9
